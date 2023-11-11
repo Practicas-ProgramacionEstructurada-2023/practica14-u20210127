@@ -1,0 +1,14 @@
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\bin\Debug\net7.0\practica14-u20210127.exe
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\bin\Debug\net7.0\practica14-u20210127.deps.json
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\bin\Debug\net7.0\practica14-u20210127.runtimeconfig.json
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\bin\Debug\net7.0\practica14-u20210127.dll
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\bin\Debug\net7.0\practica14-u20210127.pdb
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.AssemblyInfoInputs.cache
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.AssemblyInfo.cs
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.csproj.CoreCompileInputs.cache
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.dll
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\refint\practica14-u20210127.dll
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.pdb
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\practica14-u20210127.genruntimeconfig.cache
+C:\Users\Moises Carranza\Desktop\Practicas_Ciclo 2 - 2023\Programación Estructurada\Repositorio_Practicas\practica14-u20210127\obj\Debug\net7.0\ref\practica14-u20210127.dll
